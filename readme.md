@@ -1,26 +1,13 @@
 Codecov
 =======
-
-
-## Overview
-1. [Branding](#branding)
-1. [Features](#features)
-1. [Bookmarks](#bookmarks)
-
+> This repository is for press and marketing support. Please contact hello@codecov.io for questions and comments. Thanks!
 
 ## Branding
 
-##### Busness Name
-> **Not** ~~Codecov.io~~ ~~CodeCov~~ ~~codecov.io~~
-
-Codecov
-
-##### Support
-hello@codecov.io
-
-##### Slogan
-**Code coverage reporting done right.**
-
+| Busness Name |     Support      |                Slogan               |
+| ------------ | ---------------- | ----------------------------------- |
+| Codecov      | hello@codecov.io | Code coverage reporting done right. |
+> **Not** ~~Codecov.io~~, ~~CodeCov~~, ~~codecov.io~~
 
 ## Features
 
@@ -31,7 +18,6 @@ hello@codecov.io
 - [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/codecov-extension/)
 
 #### [Pull Request Comment](https://github.com/codecov/media/blob/master/features/pull-request-comment.md)
-
 
 
 ## Bookmarks
