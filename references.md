@@ -1,0 +1,3 @@
+- https://github.com/cjbarber/ToolsOfTheTrade/pull/258/files
+- https://github.com/badges/shields/blob/02f0ea3cdac804396784ebcfbda80ac6821df29b/index.html#L160-L162
+- https://github.com/ripienaar/free-for-dev/blob/master/README.md#code-quality

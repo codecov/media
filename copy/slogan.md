@@ -1,1 +1,1 @@
-Code coverage reporting done right.
+Code coverage done right.
