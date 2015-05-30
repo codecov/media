@@ -4,9 +4,9 @@ Codecov
 
 ## Branding
 
-| Busness Name |     Support      |                Slogan               |
-| ------------ | ---------------- | ----------------------------------- |
-| Codecov      | hello@codecov.io | Code coverage reporting done right. |
+| Business Name |     Support      |        Slogan             |
+| ------------- | ---------------- | ------------------------- |
+| Codecov       | hello@codecov.io | Code coverage done right. |
 > **Not** ~~Codecov.io~~, ~~CodeCov~~, ~~codecov.io~~
 
 ## Features
