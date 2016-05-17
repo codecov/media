@@ -1,9 +1,13 @@
-Testing software is crucial for deploying products. Codecov provides metrics and insight in the results of tests through code coverage reports. Coverage reports are used to determine what lines of code were tested and what lines were missed entirely. These reports are uploaded to Codecov to be analyzed and stored historically. This information helps your developers save time tracking down bugs and commit stronger code that is well tested, to increase code coverage to 100%.
+## Codecov
+> Code coverage done right.®
 
-Adding Codecov will provide deeper insight into each commit with our Coverage Diff. A Coverage Diff will describe the commit in relation to its impact on tests, from how many more or less lines of code were hit, missed or partially hit. Along with how many actual lines, files, branches and methods changed. This information can guide developers to make better commits.
+Testing software is crucial for deploying healthy code. Codecov provides metrics and insight in the results of tests through code coverage reports. Coverage reports are used to determine what lines of code were tested and what lines were missed entirely. These reports are uploaded to Codecov to be analyzed and stored historically. This information helps your developers save time tracking down bugs and commit stronger code that is well tested, to increase code coverage to 100%.
 
-Integration is key. Codecov has browser extensions to overlay coverage reports directly in Github to create a seamless workflow during development which saves time and puts metics in places most viewed during development.
+#### Features
+> Integration is our core focus.
 
-Code coverage is not only important but very easy to setup across all your projects and languages. In many cases adding Codecov is one line of code at the end of your tests. One line of code that can protect the rest, like an Umbrella.
+Codecov's Browser Extension overlays coverage directly in GitHub to enhance the development workflow and bring more attention to properly testing code.
 
-Protect your code with Codecov.
+Commit statuses and pull request comments are key to maintining a heathly product. Codecov provides valuable metrics in the pull request feed and promotes heahtly development.
+
+Our unique Coverage Diff® will describe the commit in relation to its impact on tests which significantly improves code reviews.
