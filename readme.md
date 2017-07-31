@@ -1,5 +1,5 @@
-Codecov
-=======
+# Codecov
+
 > This repository is for press and marketing support. Please contact hello@codecov.io for questions and comments. Thanks!
 
 ## Branding
@@ -23,7 +23,7 @@ Codecov
 ## Bookmarks
 
 ### Social and Marketing
-- [Github](https://github.com/codecov)
+- [GitHub](https://github.com/codecov)
 - [Twitter](https://twitter.com/codecov)
 - [Google+](https://plus.google.com/u/0/b/104298400123069697768/)
 - [LinkedIn](https://www.linkedin.com/company/codecov)
