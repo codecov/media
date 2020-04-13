@@ -9,6 +9,8 @@
 | Codecov       | hello@codecov.io | Code coverage done right. |
 > **Not** ~~Codecov.io~~, ~~CodeCov~~, ~~codecov.io~~
 
+Hex Color: ![#F01F7A](https://placehold.it/15/F01F7A/000000?text=+) `#F01F7A`
+
 ## Features
 
 #### [Browser Extension](https://github.com/codecov/browser-extension)
