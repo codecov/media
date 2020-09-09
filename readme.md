@@ -2,6 +2,8 @@
 
 > This repository is for press and marketing support. Please contact hello@codecov.io for questions and comments. Thanks!
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fmedia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fmedia?ref=badge_shield)
+
 ## Branding
 
 | Business Name |     Support      |        Slogan             |
@@ -9,8 +11,7 @@
 | Codecov       | hello@codecov.io | Code coverage done right. |
 > **Not** ~~Codecov.io~~, ~~CodeCov~~, ~~codecov.io~~
 
-> Logo Hex Code: ![#F01F7A](https://placehold.it/15/F01F7A/000000?text=+) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fmedia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fmedia?ref=badge_shield)
-`#F01F7A`
+> Logo Hex Code: `#F01F7A`![#F01F7A](https://placehold.it/15/F01F7A/000000?text=+)
 
 ## Bookmarks
 
