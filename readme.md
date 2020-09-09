@@ -9,7 +9,8 @@
 | Codecov       | hello@codecov.io | Code coverage done right. |
 > **Not** ~~Codecov.io~~, ~~CodeCov~~, ~~codecov.io~~
 
-> Logo Hex Code: ![#F01F7A](https://placehold.it/15/F01F7A/000000?text=+) `#F01F7A`
+> Logo Hex Code: ![#F01F7A](https://placehold.it/15/F01F7A/000000?text=+) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fmedia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fmedia?ref=badge_shield)
+`#F01F7A`
 
 ## Bookmarks
 
@@ -20,3 +21,7 @@
 - [LinkedIn](https://www.linkedin.com/company/codecov)
 - [StackShare](http://stackshare.io/codecov/codecov/details)
 - [Twitter](https://twitter.com/codecov)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fmedia.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fmedia?ref=badge_large)
